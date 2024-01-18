@@ -28,7 +28,7 @@ The comparative analysis demonstrated that the LSTM model outperformed the other
 The historical stock data used for training and testing the models was obtained from the `yfinance` module. 
 The model takes into account the previous one year's daily closing prices of the stock to predict the next day's closing price.
 
-## Note
+## *Note*
 
 For the best outcome and code, it is recommended to run the LSTM file. 
 The LSTM model demonstrated superior performance in predicting stock prices compared to other models.
